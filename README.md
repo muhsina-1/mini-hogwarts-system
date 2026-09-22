@@ -31,35 +31,6 @@ This project is a digital logic-based student management and academic informatio
 
 * **Student Grade System:** Converts numerical marks into letter grades (80–99 = A, 60–79 = B, 40–59 = C, 00–39 = F). If an invalid hexadecimal number is entered, a red LED blinks to indicate an invalid input.
 
-
-
-## Application of Theoretical Components
-
-* **D Flip-flops/Registers:** Retain the captured randomized House value and user-inputted Year between operations.
-
-
-* **JK Flip-flops:** Drive the sequential state transitions required for randomized House assignment.
-
-
-* **Decoders:** 2-to-4 decoders drive the House LEDs, while 3-to-8 decoders convert the 3-bit Year code to feed the academic eligibility logic via OR gates.
-
-
-* **Up-Counters:** Maintain the accumulated, live statistics for the four houses and seven years.
-
-
-* **Multiplexers (MUX):** Select year-dependent data for the Course Eligibility Segment.
-
-
-* **Subtractors & Adders:** Handle the Graduation Countdown arithmetic.
-
-
-* **7-Segment Displays:** Convert binary values into human-readable digits for the Year, student counts, course counts, graduation countdown, and grades.
-
-
-* **Combinational Logic (AND/OR/NOT):** Controls conditions, such as determining if a student is a Prefect (Y5 OR Y6 OR Y7) or N.E.W.T. eligible (Y6 OR Y7).
-
-
-
 ## User Guideline
 
 1. **Power On:** Switch on the circuit's power supply so all displays initialize to zero.
@@ -104,3 +75,32 @@ This project is a digital logic-based student management and academic informatio
 * [Mugdho Ranin Rahman Mahee (240042154)](https://github.com/Mugdho54)
 * [Ummul Khaer Fatema (240042153)](https://github.com/ummulkhaer-max)
 * [Tanbirul Islam (240042133)](https://github.com/tanbirulislam-hash)
+
+
+
+## Application of Theoretical Components
+
+* **D Flip-flops/Registers:** Retain the captured randomized House value and user-inputted Year between operations.
+
+
+* **JK Flip-flops:** Drive the sequential state transitions required for randomized House assignment.
+
+
+* **Decoders:** 2-to-4 decoders drive the House LEDs, while 3-to-8 decoders convert the 3-bit Year code to feed the academic eligibility logic via OR gates.
+
+
+* **Up-Counters:** Maintain the accumulated, live statistics for the four houses and seven years.
+
+
+* **Multiplexers (MUX):** Select year-dependent data for the Course Eligibility Segment.
+
+
+* **Subtractors & Adders:** Handle the Graduation Countdown arithmetic.
+
+
+* **7-Segment Displays:** Convert binary values into human-readable digits for the Year, student counts, course counts, graduation countdown, and grades.
+
+
+* **Combinational Logic (AND/OR/NOT):** Controls conditions, such as determining if a student is a Prefect (Y5 OR Y6 OR Y7) or N.E.W.T. eligible (Y6 OR Y7).
+
+
