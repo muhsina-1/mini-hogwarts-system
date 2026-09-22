@@ -40,19 +40,19 @@ This project is a digital logic-based student management and academic informatio
 
 ## Team Members
 
-* Mohsina Islam (240042146)
+* [ Mohsina Islam (240042146) ] (https://github.com/muhsina-1)
 
 
-* A. N. M. Mohaiminur Rahman (240042142)
+* [ A. N. M. Mohaiminur Rahman (240042142) ] (https://github.com/leigion-broken11)
 
 
-* Lamisa Ibnat Zaman (240042141)
+* [ Lamisa Ibnat Zaman (240042141) ] (https://github.com/lamisazaman)
 
 
-* Mugdho Ranin Rahman Mahee (240042154)
+* [ Mugdho Ranin Rahman Mahee (240042154) ] (https://github.com/Mugdho54)
 
 
-* Ummul Khaer Fatema (240042153)
+* [ Ummul Khaer Fatema (240042153) ] (https://github.com/ummulkhaer-max)
 
 
-* Tanbirul Islam (240042133)
+* [ Tanbirul Islam (240042133) ] (https://github.com/tanbirulislam-hash)
